@@ -1,6 +1,8 @@
 # BUAA_Dissertation_Template
 北航硕博研究生毕业论文模板（Word）
 
+点击下载  https://github.com/ixzhao/BUAA_Dissertation_Template/archive/refs/heads/main.zip
+
 
 ## 特点
 
